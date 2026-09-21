@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Opções da conta</title>
+</head>
+<body>
+
+  <center>
+    <br>
+
+    <table border="2" cellpadding="30" width="65%">
+      <tr>
+
+        <!-- Coluna da esquerda: dados do perfil -->
+        <td align="center" valign="middle" width="30%">
+          <img src="foto-perfil.png" alt="Foto de perfil" width="140" height="140">
+          <p>
+            <font size="4">
+              Nome<br>
+              Número<br>
+              E-mail
+            </font>
+          </p>
+        </td>
+
+        <!-- Coluna da direita: botões -->
+        <td align="center" valign="middle">
+          <p><button><font size="4">Verificar e-mail</font></button></p>
+          <p><button><font size="4">Trocar senha</font></button></p>
+          <p><button><font size="4">Alterar número</font></button></p>
+          <p><button><font size="4">Autenticação de dois fatores</font></button></p>
+          <p><button><font size="4">Notificações</font></button></p>
+          <p><button><font size="4">Tema Claro/Escuro</font></button></p>
+          <p><button><font size="4">Configurações regionais</font></button></p>
+          <p><button><font size="4">Quero virar um profissional</font></button></p>
+        </td>
+
+      </tr>
+    </table>
+  </center>
+
+</body>
+</html>

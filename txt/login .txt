@@ -1,0 +1,28 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+</head>
+<style>
+    body{
+        text-align: center;
+    }
+</style>
+<body>
+    <h1>Login</h1>
+    Email: <input type="text" placeholder="Digite seu E-mail">
+    <br>
+    senha: <input typr="text" placeholder="Digite sua Senha">
+    <br>
+    Entrar: <button type="button">Entrar</button>
+    
+    <br>
+    <button type="button">Esqueci Minha Senha</button>
+    <br>
+    Ainda não possui uma conta ? 
+    <button type="button">Cadastre-se</button>
+</body>
+</html>
